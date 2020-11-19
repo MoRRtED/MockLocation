@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+    version="1.1"
+    creator="gpx-poi.com">
+    <wpt lat="49.82217300" lon="24.01643780">
+        <ele>332.00000</ele>
+        <time>2010-01-01T00:00:00Z</time>
+    </wpt>
+    <wpt lat="49.82228000" lon="24.01631000">
+        <ele>331.00000</ele>
+        <time>2010-01-01T00:00:05Z</time>
+    </wpt>
+    <wpt lat="49.82217000" lon="24.01605000">
+        <ele>333.00000</ele>
+        <time>2010-01-01T00:00:13Z</time>
+    </wpt>
+    <wpt lat="49.82218000" lon="24.01607000">
+        <ele>333.00000</ele>
+        <time>2010-01-01T00:00:14Z</time>
+    </wpt>
+    <wpt lat="49.82176000" lon="24.01645000">
+        <ele>332.00000</ele>
+        <time>2010-01-01T00:00:33Z</time>
+    </wpt>
+    <wpt lat="49.82132000" lon="24.01684000">
+        <ele>331.00000</ele>
+        <time>2010-01-01T00:00:53Z</time>
+    </wpt>
+    <wpt lat="49.82100000" lon="24.01714000">
+        <ele>335.00000</ele>
+        <time>2010-01-01T00:01:08Z</time>
+    </wpt>
+    <wpt lat="49.82093000" lon="24.01725000">
+        <ele>335.00000</ele>
+        <time>2010-01-01T00:01:12Z</time>
+    </wpt>
+    <wpt lat="49.82057000" lon="24.01816000">
+        <ele>337.00000</ele>
+        <time>2010-01-01T00:01:40Z</time>
+    </wpt>
+    <wpt lat="49.82002000" lon="24.01985000">
+        <ele>346.00000</ele>
+        <time>2010-01-01T00:02:29Z</time>
+    </wpt>
+    <wpt lat="49.81995000" lon="24.02012000">
+        <ele>345.00000</ele>
+        <time>2010-01-01T00:02:36Z</time>
+    </wpt>
+    <wpt lat="49.81991000" lon="24.02034000">
+        <ele>344.00000</ele>
+        <time>2010-01-01T00:02:42Z</time>
+    </wpt>
+    <wpt lat="49.82014000" lon="24.02037000">
+        <ele>345.00000</ele>
+        <time>2010-01-01T00:02:51Z</time>
+    </wpt>
+    <wpt lat="49.82064000" lon="24.02041000">
+        <ele>345.00000</ele>
+        <time>2010-01-01T00:03:11Z</time>
+    </wpt>
+    <wpt lat="49.82064000" lon="24.02036000">
+        <ele>345.00000</ele>
+        <time>2010-01-01T00:03:13Z</time>
+    </wpt>
+    <wpt lat="49.81986000" lon="24.02029000">
+        <ele>344.00000</ele>
+        <time>2010-01-01T00:03:44Z</time>
+    </wpt>
+    <wpt lat="49.82059000" lon="24.01805000">
+        <ele>336.00000</ele>
+        <time>2010-01-01T00:04:49Z</time>
+    </wpt>
+    <wpt lat="49.82080000" lon="24.01749000">
+        <ele>335.00000</ele>
+        <time>2010-01-01T00:05:06Z</time>
+    </wpt>
+    <wpt lat="49.82100000" lon="24.01712000">
+        <ele>335.00000</ele>
+        <time>2010-01-01T00:05:18Z</time>
+    </wpt>
+    <wpt lat="49.82130000" lon="24.01682000">
+        <ele>331.00000</ele>
+        <time>2010-01-01T00:05:32Z</time>
+    </wpt>
+    <wpt lat="49.82216000" lon="24.01603000">
+        <ele>333.00000</ele>
+        <time>2010-01-01T00:06:12Z</time>
+    </wpt>
+    <wpt lat="49.82226000" lon="24.01625000">
+        <ele>331.00000</ele>
+        <time>2010-01-01T00:06:19Z</time>
+    </wpt>
+</gpx>

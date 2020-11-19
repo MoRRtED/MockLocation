@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+    version="1.1">
+    <wpt lat="47.833133" lon="35.141525">
+        <time>2018-05-18T14:04:54Z</time>
+        <hdop>100</hdop>
+        <name>MockLocation</name>
+    </wpt>
+</gpx>
